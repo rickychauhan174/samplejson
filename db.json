@@ -1,5 +1,4 @@
 {
-  
   "deliveryOrders": [
     {
       "id": "1",
@@ -13,9 +12,7 @@
       "address": "#702, sector 7, Kurukshetra",
       "status": "confirmed"
     }
-  ],
-  
-  
+  ], 
   "signup": {
   "full_name": "Ricky Chouhan",
   "phone_number": "9876543210",
@@ -26,21 +23,14 @@
   },
   "pin_code": "136038"
 },
- 
-
  "createOrder": {
   "quantity": "2",
   "amount": "240"
 },
-
-  
 "eggsPrice":{
   "price": "90"
 },
-
-
-"myOrders":{
-  "orders": [
+"myOrders": [
     {
       "quantity": "2",
       "amount": "240",
@@ -48,6 +38,4 @@
       "status": "delivered"
     }
   ]
-}
-  
 }
