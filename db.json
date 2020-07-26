@@ -1,5 +1,5 @@
 {
-  // Delivery orders
+  
   "deliveryOrders": [
     {
       "id": "1",
@@ -15,7 +15,7 @@
     }
   ],
   
-  // Signup api 
+  
   "signup": {
   "full_name": "Ricky Chouhan",
   "phone_number": "9876543210",
@@ -27,18 +27,18 @@
   "pin_code": "136038"
 },
  
-// Create order api
+
  "createOrder": {
   "quantity": "2",
   "amount": "240"
 },
 
-// Eggs price
+  
 "eggsPrice":{
   "price": "90"
 },
 
-// My orders
+
 "myOrders":{
   "orders": [
     {
