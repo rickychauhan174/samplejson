@@ -1,0 +1,16 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "quantity": "2",
+      "amount": "240",
+      "date": "23-07-2020",
+      "location": {
+        "lat": "77.67",
+        "lng": "121.99"
+      },
+      "address": "#702, sector 7, Kurukshetra",
+      "status": "confirmed"
+    }
+  ]
+}
